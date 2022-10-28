@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.main{
+    max-width: 500px;
+    background-color: white;
+    margin: auto;
+    box-shadow: 2px 2px 2px 2px #777a77;
+}
